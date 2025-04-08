@@ -1,0 +1,10 @@
+/* src/Background.module.css */
+.background {
+    min-height: 100vh;
+    background: linear-gradient(to bottom right, #1f1f3a, #2e2e4d);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
